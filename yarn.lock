@@ -23666,7 +23666,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql-ws@npm:^5.4.1, graphql-ws@npm:^5.9.0":
+"graphql-ws@npm:^5.4.1":
+  version: 5.11.1
+  resolution: "graphql-ws@npm:5.11.1"
+  peerDependencies:
+    graphql: ">=0.11 <=16"
+  checksum: ad4ae060724e38c7b360fe26700dd3f88e969706c071f065d457b04ab76aad2415d780402cf8f99facc11eca9ca2871c356c3ba66f832b4c227856c6953d4d60
+  languageName: node
+  linkType: hard
+
+"graphql-ws@npm:^5.9.0":
   version: 5.10.1
   resolution: "graphql-ws@npm:5.10.1"
   peerDependencies:
